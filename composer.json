@@ -1,0 +1,15 @@
+{
+    "name":"socialmidia/socialmidia",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }   
+
+
+
+
+
+
+
+}
